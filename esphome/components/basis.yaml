@@ -27,7 +27,9 @@ logger:
 
 ota:
   - platform: esphome
-    safe_mode: true
+
+safe_mode:
+
 time:
   - platform: homeassistant
     id: time_homeassistant
