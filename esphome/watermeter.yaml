@@ -22,7 +22,7 @@ dashboard_import:
 
 packages:
   remote_package:
-    url: https://github.com/huizebruin/s0tool/
+    url: https://github.com/0x414c49/s0tool/
     ref: main
     files:
       - esphome/components/basis.yaml
